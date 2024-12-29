@@ -7,13 +7,6 @@
   font-family: "Poppins", serif;
 }
 
-/*.app {
-  min-height: 100vh;
-  display: grid;
-  background: #e2d4ff;
-
-}*/
-
 .App{
   background-image: url('C:\Users\kinja\OneDrive\Desktop\PROJECTS\weather app vite\weather-app\src\assets\mountain.jpg');
   background-position: center;
