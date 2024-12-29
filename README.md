@@ -25,8 +25,8 @@ The Weather App is a simple and responsive application designed to display real-
 **3. Tools used:** VS Code
 
 ## Project implementation Steps:
-**1. Planning & Setup:** Break the app into components (Task List, Input, Filters) and set up state management using React hooks (useState, useEffect) to handle tasks, completed tasks, and filtering.\
-**2. Develop Features:** Implement the functionality for task creation, editing, deletion, completion, and filtering.\
+**1. Planning & Setup:** Break the app into components and set up state management using React hooks (useState, useEffect, useRef) to handle search input, and the data fetched from the api.\
+**2. Develop Features:** Implement the functionality for location input, search icon.\
 **3. Styling:** Apply basic CSS for a clean, responsive layout, ensuring that the user interface is responsive and visually appealing.\
 **4. API Integration:** Using OpenWeatherMap API to generate real-time data such as humidity, wind speed, air pressure and temperature.\
-**5. Testing & Deployment:** Test app functionality to ensure that the state management and local storage work seamlessly and that tasks persist even after page refreshes. The app can be deployed using platforms like Vercel or Netlify for live use.
+**5. Testing:** Test app to ensure the searched location fetches desired output.
